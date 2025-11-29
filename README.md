@@ -1,31 +1,7 @@
 # Taller_Python
 
-Breve descripción del proyecto.
 
-Contenido:
 
-- Breve descripción del proyecto.
-- Instrucciones para clonar el repositorio.
-- Cómo instalar dependencias: `pip install -r requirements.txt`.
-- Cómo ejecutar el código.
-- Créditos y referencias al taller.
-
-Estructura recomendada:
-
-```
-Taller_Python/
-  # Taller_Python
-
-  Breve descripción del proyecto.
-
-  Contenido clave:
-
-  - **Breve descripción del proyecto:** Ejercicios y ejemplos del curso de Python que muestran manejo de datos con `pandas`, visualización con `matplotlib`, y ejemplos básicos de programación en `src/` y `notebooks/`.
-  - **Instrucciones para clonar el repositorio:**
-
-  ```powershell
-  git clone <URL-del-repositorio>
-  cd Taller_Python
   ```
 
 - **Cómo instalar dependencias:**
