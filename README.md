@@ -1,14 +1,5 @@
 # Taller_Python
 
-Breve descripción del proyecto.
-
-Contenido:
-
-- Breve descripción del proyecto.
-- Instrucciones para clonar el repositorio.
-- Cómo instalar dependencias: `pip install -r requirements.txt`.
-- Cómo ejecutar el código.
-- Créditos y referencias al taller.
 
 Estructura recomendada:
 
