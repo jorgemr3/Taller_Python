@@ -1,7 +1,5 @@
 # Taller_Python
 
-
-
   ```
 
 - **Cómo instalar dependencias:**
