@@ -94,5 +94,3 @@ Si tiene preguntas sobre el contenido del curso o necesita soporte, contacte al 
 Licencia: revise el archivo `LICENSE` en la raíz del proyecto.
 
 ---
-
-Si desea que amplíe alguna sección (por ejemplo, ejemplos de uso concretos de `src/funciones.py`, pruebas automáticas o instrucciones para crear un entorno con `conda`), indique qué parte quiere que desarrolle y lo agrego.
